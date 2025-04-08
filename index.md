@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Apparently this is my job now
 ---
 
+##### Learning Github and learning Python!
